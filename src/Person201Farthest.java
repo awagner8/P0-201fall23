@@ -10,8 +10,8 @@ public class Person201Farthest {
                double d = p.distanceFrom(l);
                 if (d > max) {
                     max = d;
-                    a = l;
-                    b = p;  
+                    b = l;
+                    a = p;  
             }}
             
         }
